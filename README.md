@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [Coderslab final project] 
-- 🏀  I’m currently learning React, Vue
+- 🏀  Learning React, Vue
 - 💣 You can check my [Portfolio]
 - 📫 How to reach me: ppawlowski7+github@gmail.com
 
