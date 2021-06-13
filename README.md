@@ -15,7 +15,7 @@ I'm Piotr.
 
 <img align="right" alt="GIF" src="https://s6.gifyu.com/images/code992f73b58d0ba400.gif" width="500" height="320" />
 
-- 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 Any freelance work? Do reach, [email](mailto:ppawlowski7+github@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **This Week I Spent My Time On:**
@@ -29,7 +29,8 @@ JSON        40 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7&hide=contribs,prs)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
