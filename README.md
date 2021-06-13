@@ -29,7 +29,7 @@ JSON        40 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7&hide=contribs,prs&theme=dark&show_icons=true))
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
