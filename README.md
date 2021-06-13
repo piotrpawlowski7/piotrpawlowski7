@@ -6,12 +6,15 @@
 
 Here are some ideas to get you started:
 -->
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 I'm Piotr, a creative freelancer, learning programming.
 - 🔭 I’m currently working on [Coderslab final project] 
 - 🏀  Learning React, Vue
 - 💣 You can check my [Portfolio]
 - 📫 How to reach me: ppawlowski7+github@gmail.com
+
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 <h3>Things I code with</h3>
 <p>
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
