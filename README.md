@@ -1,4 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 
 <!--
@@ -13,7 +14,6 @@ I'm Piotr, a creative freelancer, learning programming.
 - 💣 You can check my [Portfolio]
 - 📫 How to reach me: ppawlowski7+github@gmail.com
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 <h3>Things I code with</h3>
 <p>
