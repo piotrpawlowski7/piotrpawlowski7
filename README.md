@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-
-I'm Piotr.
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+I'm Piotr, a creative freelancer, learning programming.
 - 🔭 I’m currently working on [Coderslab final project] 
 - 🏀  Learning React, Vue
 - 💣 You can check my [Portfolio]
@@ -39,6 +39,19 @@ JSON        40 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Marketing
+* Filmmaking
+* Photography
+* Motion Design
+* Science 
+* Drones
+* UX
+* Learning
+
+### 🏆 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7&hide=contribs,prs&theme=dark&show_icons=true)
 
 
