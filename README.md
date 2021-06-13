@@ -29,7 +29,7 @@ JSON        40 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?piotrpawlowski7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
