@@ -33,18 +33,7 @@ I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
 - 💼 Any freelance work? Do reach, [email](mailto:ppawlowski7+github@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
-** This Week I Spent My Time On
-
-```text
-React        28 hrs 10 mins  █████████████████████░░░░   84.26 % 
-JavaScript   7 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-CSS          49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JSON        40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-```
-
-
-### 🧡 My passions
+## 🧡 My passions
 
 * Technology and software
 * Marketing
@@ -57,6 +46,16 @@ JSON        40 mins          ░░░░░░░░░░░░░░░░░
 * Learning
 
 ## 🏆 Github Stats
+** This Week I Spent My Time On
+
+```text
+React        28 hrs 10 mins  █████████████████████░░░░   84.26 % 
+JavaScript   7 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+CSS          49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JSON        40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+```
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7&hide=contribs,prs&theme=dark&show_icons=true)
 
 
