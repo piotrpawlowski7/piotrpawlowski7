@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 -->
 
 I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
-- 🔭 I’m currently working on [Coderslab final project] 
-- 🏀  Learning React, Vue
+- 🎓 I just finished Javascript Developer 6-months course
+- 🔭 and defend my [final project]
+- 🏀 Learning React, Vue
 - 💣 You can check my [Portfolio]
 - 📫 How to reach me: ppawlowski7+github@gmail.com
 
@@ -61,5 +62,5 @@ JSON        40 mins          ░░░░░░░░░░░░░░░░░
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-[Coderslab final project]: <https://github.com/piotrpawlowski7/cl_finalproject>
+[final project]: <https://github.com/piotrpawlowski7/cl_finalproject>
 [Portfolio]: <https://piotrpawlowski7.github.io>
