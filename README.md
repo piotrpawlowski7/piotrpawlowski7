@@ -10,9 +10,13 @@ Here are some ideas to get you started:
 -->
 
 I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
-- 🎓 I just finished Javascript Developer 6-months course
-- 🔭 and defend my [final project]
-- 🏀 Learning React, Vue
+- 🎓 I attended Javascript Developer 6-months course
+- 🔭 with [final project] outcome
+- 🏀 Learning Javascript, React, jQuery
+- 👓 Exploring Python and Selenium while building automation tools.
+- 🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).
+- ✂️ While being Front-end I explored recently Backend solutions such as Python Flask, NodeJS Express.
+- 🔥 I Co-operate in a project with Java Spring as backend.
 - 💣 You can check my [Portfolio]
 - 📫 How to reach me: ppawlowski7+github@gmail.com
 
