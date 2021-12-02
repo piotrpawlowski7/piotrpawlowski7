@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm Piotr, a creative freelancer. I am making films and I just fall into coding.  
+I'm Piotr, a creative freelancer. I am making films and I recently fall into coding.  
 🎓 I attended Javascript Developer 6-months course  
 🔭 with [final project] outcome  
 🏀 Learning Javascript, React, jQuery  
