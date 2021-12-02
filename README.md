@@ -57,3 +57,9 @@ I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
 
 [final project]: <https://github.com/piotrpawlowski7/cl_finalproject>
 [Portfolio]: <https://piotrpawlowski7.github.io>
+
+<style>
+.lcp_catlist li{
+  list-style: none;
+}
+</style>
