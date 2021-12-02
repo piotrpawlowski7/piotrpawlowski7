@@ -18,7 +18,7 @@ I'm Piotr, a creative freelancer. I am making films and I recently fall into cod
 ✂️ While being Front-end I explored recently Backend solutions such as Python Flask, NodeJS Express.  
 🔥 I Co-operate in a project with Java Spring as backend.  
 💣 You can check my [Portfolio]  
-📫 How to reach me: [email]  
+📫 Reach me via: [email]  
   
   
 ## Things I code with
