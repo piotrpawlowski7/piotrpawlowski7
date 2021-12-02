@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 -->
 
 I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
-- 🎓 I attended Javascript Developer 6-months course  
-🔭 with [final project] outcome
-🏀 Learning Javascript, React, jQuery
+🎓 I attended Javascript Developer 6-months course  
+🔭 with [final project] outcome  
+🏀 Learning Javascript, React, jQuery  
 👓 Exploring Python and Selenium while building automation tools.
 🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).
 ✂️ While being Front-end I explored recently Backend solutions such as Python Flask, NodeJS Express.
