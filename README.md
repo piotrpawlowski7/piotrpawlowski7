@@ -18,7 +18,7 @@ I'm Piotr, a creative freelancer. I am making films and I recently fall into cod
 ✂️ While being Front-end I explored recently Backend solutions such as Python Flask, NodeJS Express.  
 🔥 I Co-operate in a project with Java Spring as backend.  
 💣 You can check my [Portfolio]  
-📫 How to reach me: ppawlowski7+github@gmail.com  
+📫 How to reach me: [email]  
   
   
 ## Things I code with
@@ -57,3 +57,4 @@ I'm Piotr, a creative freelancer. I am making films and I recently fall into cod
 
 [final project]: <https://github.com/piotrpawlowski7/cl_finalproject>
 [Portfolio]: <https://piotrpawlowski7.github.io>
+[email]:<ppawlowski7+github@gmail.com>
