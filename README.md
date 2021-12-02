@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
-- 🎓 I attended Javascript Developer 6-months course
+- 🎓 I attended Javascript Developer 6-months course  
 🔭 with [final project] outcome
 🏀 Learning Javascript, React, jQuery
 👓 Exploring Python and Selenium while building automation tools.
