@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 -->
 
 I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
-- 🎓 I attended Javascript Developer 6-months course
-- 🔭 with [final project] outcome
-- 🏀 Learning Javascript, React, jQuery
-- 👓 Exploring Python and Selenium while building automation tools.
-- 🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).
-- ✂️ While being Front-end I explored recently Backend solutions such as Python Flask, NodeJS Express.
-- 🔥 I Co-operate in a project with Java Spring as backend.
-- 💣 You can check my [Portfolio]
-- 📫 How to reach me: ppawlowski7+github@gmail.com
+🎓 I attended Javascript Developer 6-months course
+🔭 with [final project] outcome
+🏀 Learning Javascript, React, jQuery
+👓 Exploring Python and Selenium while building automation tools.
+🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).
+✂️ While being Front-end I explored recently Backend solutions such as Python Flask, NodeJS Express.
+🔥 I Co-operate in a project with Java Spring as backend.
+💣 You can check my [Portfolio]
+📫 How to reach me: ppawlowski7+github@gmail.com
 
 
 ## Things I code with
@@ -35,8 +35,8 @@ I'm Piotr, a creative freelancer. I am making films and I just fall into coding.
 
 <img align="right" alt="GIF" src="https://s6.gifyu.com/images/code992f73b58d0ba400.gif" width="400" height="356" />
 
-- 💼 Any freelance work? Do reach, [email](mailto:ppawlowski7+github@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+ 💼 Any freelance work? Do reach, [email](mailto:ppawlowski7+github@gmail.com) :)
+ 💬 Ask me about anything, I am happy to help;
 
 ## 🧡 My passions
 
