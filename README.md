@@ -16,9 +16,9 @@ I'm Piotr, a creative freelancer. I am making films and I recently fall into cod
 👓 Exploring Python and Selenium while building automation tools.  
 🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).  
 ✂️ While being Front-end I explored recently Backend solutions such as Python Flask, NodeJS Express.  
-🔥 I Co-operate in a project with Java Spring as backend. 
-💡 I became CLI addicted. I stream music from Spotify to cli, use Philips hue or use macros. 
-🤖 I'm bulding my Smart Home with Raspberry. 
+🔥 I Co-operate in a project with Java Spring as backend.  
+💡 I became CLI addicted. I stream music from Spotify to cli, use Philips hue or use macros.  
+🤖 I'm bulding my Smart Home with Raspberry.  
 💣 You can check my [Portfolio]  
 📫 Reach me via: [email]  
   
