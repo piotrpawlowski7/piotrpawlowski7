@@ -20,7 +20,7 @@ I'm Piotr, a creative freelancer. I am making films and I recently fall into cod
 💡 I became CLI addicted. I stream music from Spotify to cli, use Philips hue or use macros.  
 🤖 I'm bulding my Smart Home with Raspberry.  
 💣 You can check my [Portfolio]  
-📫 Reach me via: [email]  
+📫 Reach me via: [email](mailto:ppawlowski7+github@gmail.com)
   
   
 ## Things I code with
@@ -37,8 +37,6 @@ I'm Piotr, a creative freelancer. I am making films and I recently fall into cod
 
 <img align="right" alt="GIF" src="https://s6.gifyu.com/images/code992f73b58d0ba400.gif" width="400" height="356" />
 
- 💼 Let's do cool stuff together [email](mailto:ppawlowski7+github@gmail.com) :)
- 💬 Ask me about anything, I am happy to help;
 
 ## 🧡 My passions
 
