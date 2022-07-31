@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Piotr, a creative freelancer. I am making films and I recently fall into coding. 
-I've built first sites with Macromedia Dreamwaver, used tables in HTML. I Used Wolfram Mathematica and Fortran during my studies. Since 2021 I work as a Front-End Developer.  
+I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked with Wolfram Mathematica and Fortran during my studies. Since 2021 I work as a Front-End Developer.  
 
 🎓 I attended Javascript Developer 6-months course  
 🔭 with [final project] outcome  
