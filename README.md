@@ -14,7 +14,7 @@ I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked
 
 🎓 I attended Javascript Developer 6-months course  
 🔥 with [final project] outcome  
-🔭  I attented Data Science 8-months course. [PlanetGenerator]
+🔭  I attented Data Science 8-months course. I created [PlanetGenerator]  
 🏀 Learning Javascript, React  
 👓 Exploring Python and Selenium while building automation tools.  
 🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).  
