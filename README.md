@@ -22,7 +22,7 @@ I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked
 🔥 I Co-operate in a project with Java Spring as backend.  
 💡 I became CLI addicted. I stream music from Spotify to cli, use Philips hue or use macros.  
 🤖 I'm bulding my Smart Home with Raspberry.  
-💣 You can check my [Portfolio] but there's more on github now
+💣 You can check my [Portfolio] but there's more on github now  
 📫 Reach me via: [email](mailto:ppawlowski7+github@gmail.com)
   
   
