@@ -13,7 +13,8 @@ I'm Piotr, a creative freelancer. I am making films and I recently fall into cod
 I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked with Wolfram Mathematica and Fortran during my studies. Since 2021 I work as a Front-End Developer.  
 
 🎓 I attended Javascript Developer 6-months course  
-🔭 with [final project] outcome  
+🔥 with [final project] outcome  
+🔭  I attented Data Science 8-months course. [PlanetGenerator]
 🏀 Learning Javascript, React  
 👓 Exploring Python and Selenium while building automation tools.  
 🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).  
@@ -60,3 +61,4 @@ I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked
 [final project]: <https://github.com/piotrpawlowski7/cl_finalproject>
 [Portfolio]: <https://piotrpawlowski7.github.io>
 [email]:<ppawlowski7+github@gmail.com>
+[PlanetGenerator]: <https://github.com/piotrpawlowski7/PlanetGenerator>
