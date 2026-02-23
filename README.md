@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 I'm Piotr, a creative freelancer. I am making films and I recently fall into coding. 
 I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked with Wolfram Mathematica and Fortran during my studies. Since 2021 I work as a Front-End Developer.  
 
-🎓 I attended Javascript Developer 6-months course  
+🎓 I attended Javascript Developer 6-months course (2020)
 🔥 with [final project] outcome  
-🔭  I attented Data Science 8-months course. I created [PlanetGenerator]  
+🔭  I attented Data Science 8-months course. I created [PlanetGenerator] (2021)
 🏀 Learning Javascript, React  
 👓 Exploring Python and Selenium while building automation tools.  
 🍪 Fascinated with animations libraries (Anime.CSS, AOS, ScrollMagic).  
