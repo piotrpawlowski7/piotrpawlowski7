@@ -36,6 +36,9 @@ I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logoColor=white" />
   </p>
 
 <img align="right" alt="GIF" src="https://s6.gifyu.com/images/code992f73b58d0ba400.gif" width="400" height="356" />
@@ -52,6 +55,11 @@ I've built first sites with Macromedia Dreamwaver, used tables in HTML. I worked
 * Drones
 * UX
 * Learning
+
+
+## 📊 GitHub Stats
+
+![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrpawlowski7&hide=contribs,prs&theme=dark&show_icons=true)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
