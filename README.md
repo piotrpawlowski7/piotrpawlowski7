@@ -6,28 +6,16 @@
 **piotrpawlowski7/piotrpawlowski7** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-I'm Piotr — a creative builder with a background in photography, design, and filmmaking.
+I'm Piotr — a creative turned developer, now building with AI.
 
-I started by creating visual stories and growing a business around film, working on projects for brands such as Deloitte, CCC, Bayer, PKO BP, Yamaha, Uber Eats, T-Mobile, and Dell. Over time, I became more interested not only in how things look, but in how they work.
-
-That is what pulled me deeper into technology.
-
-Today, I build web experiences, digital tools, and systems that connect creativity, code, UX, and product thinking. With **5 years of programming experience**, I work mainly on the frontend using JavaScript and Python, but I also enjoy automation, backend logic, and experimenting with tools that make work smarter and more enjoyable.
-
-Over the last couple of years I've been deeply investing in **AI-assisted development** — what people now call vibe coding. I use tools like **Cursor**, **Claude Code**, and **v0** as core parts of my workflow, and I consider myself a **developer powered by AI**.
-
-This means I'm not just experimenting — I'm shipping. I build **production-ready apps**, develop **proof of concepts** for my company and clients, and run **R&D projects** exploring how AI can improve marketing, team collaboration, and overall team effectiveness.
-
-**From storytelling with film to building with code — now accelerated by AI.**
-
-- 🎬 Former filmmaker, designer, and visual creator
-- 💻 Developer working mainly with **JavaScript** and **Python**
-- 🤖 AI-powered builder — Cursor, Claude Code, v0 are daily tools
-- 🚀 Shipping production apps and proof of concepts for clients and internal teams
-- 🔬 Running R&D on AI applications for marketing and team effectiveness
-- ⚙️ Exploring automation, Node.js, and backend workflows
-- 🧠 Interested in systems, interfaces, product thinking, and useful digital tools
-- 🏠 Building smart home / Raspberry Pi / CLI-powered side projects for fun
+- 🎬 **Background in film & design** — produced work for Deloitte, CCC, Bayer, PKO BP, Yamaha, Uber Eats, T-Mobile, and Dell
+- 💻 **5 years of programming** — JavaScript, Python, frontend-first with backend fluency
+- 🤖 **AI-powered development** — Cursor, Claude Code, and v0 are core parts of my daily workflow
+- 🚀 **Shipping production apps** — building products, proof of concepts, and internal tools for clients and teams
+- 🔬 **R&D in AI applications** — exploring how AI improves marketing, collaboration, and team effectiveness
+- ⚙️ **Automation & backend** — Node.js, scripting, and workflow optimization
+- 🏠 **Self-hosting enthusiast** — NFC-triggered Spotify playback, Pi-hole network ad blocking, remote VPN access, and more
+- 🧠 **Systems thinker** — drawn to interfaces, product design, and tools that actually work
 
 📫 Reach me via: [email](mailto:ppawlowski7+github@gmail.com)  
 💣 Some old stuff is still on [Portfolio], but most of what I do now lives here on GitHub
